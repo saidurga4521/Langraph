@@ -1,3 +1,6 @@
 langchain
 langgraph
 langsmith
+dotenv
+langchain-openai
+langchain_tavily
