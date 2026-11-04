@@ -3,4 +3,6 @@ langgraph
 langsmith
 dotenv
 langchain-openai
+langchain_google_vertexai
+langchain-google-genai
 langchain_tavily
